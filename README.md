@@ -58,8 +58,8 @@ The schema of en-wikipedia_traffic_200712-2018.CSV is:
 
 To reproduce and expand upon this work:
 
-1. Git clone this repo
-2. Run A1 Data Curation.IPYNB as a Python Jupyter Notebook.
+1. [Git clone](https://github.com/PKing70/data-512-a1.git) this repo.
+2. Run A1 Data Curation.IPYNB as a [Python](https://www.python.org/) [Jupyter Notebook](http://jupyter.org/).
 
 Note that pagecount, the original traffic API, included hits from web crawlers and other automated traffic. The new Pageview API should exclude such hits.
 
